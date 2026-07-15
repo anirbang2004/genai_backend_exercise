@@ -1,0 +1,88 @@
+Northstar Troubleshooting Guide
+
+This document lists common customer issues and practical first steps that can often resolve them without requiring support intervention.
+
+The troubleshooting steps below are general guidance. If the problem continues after basic steps are completed, the customer may need to contact support.
+
+Issue: The NS Band will not sync
+Possible steps:
+- Make sure Bluetooth is enabled on the phone.
+- Keep the band close to the phone.
+- Open the Northstar app and pull to refresh the device screen.
+- Force close and reopen the app.
+- Restart the NS Band.
+- Check whether the app requires an update.
+
+Additional note:
+Sync issues are often caused by distance, Bluetooth state, or temporary app state problems. Retrying after an app restart frequently resolves the issue.
+
+Issue: The battery drains too quickly
+Possible steps:
+- Reduce continuous heart-rate monitoring frequency if supported.
+- Install the latest firmware update.
+- Make sure the device is fully charged before long workouts.
+- Remove and reconnect the device in the app if battery reporting seems inaccurate.
+
+Additional note:
+Battery performance can vary depending on usage patterns, sync frequency, firmware state, and enabled tracking features.
+
+Issue: Premium features are locked after payment
+Possible steps:
+- Sign out and sign back in.
+- Check whether payment completed successfully.
+- Wait a few minutes for account status to refresh.
+- Contact support if the account still shows the Free tier.
+
+Additional note:
+This issue may be caused by a billing delay, account mismatch, or incomplete payment confirmation rather than a device problem.
+
+Issue: Sleep data is missing
+Possible steps:
+- Wear the band snugly overnight.
+- Sync the device in the morning.
+- Confirm the battery did not run out during the night.
+
+Additional note:
+If sleep data is consistently incomplete, customers should review fit and overnight battery level before assuming a sync defect.
+
+Issue: App cannot find device during setup
+Possible steps:
+- Charge the band.
+- Turn Bluetooth off and on again.
+- Restart the phone.
+- Keep the device next to the phone during pairing.
+
+Additional note:
+This issue is especially common during first-time setup if the band is low on power or the phone's Bluetooth state is unstable.
+
+Issue: The app seems outdated or unstable
+Possible steps:
+- Install the latest version of the app.
+- Close background apps if the phone is under heavy load.
+- Restart the phone.
+- Retry the action after reconnecting to the internet.
+
+Issue: Account still shows Free after subscribing
+Possible steps:
+- Confirm that the purchase completed successfully.
+- Make sure you are signed into the expected account.
+- Sign out and sign back in.
+- Wait briefly for account status to refresh.
+- Contact support if the problem continues.
+
+Issue: Device appears connected but data is old
+Possible steps:
+- Pull to refresh the device screen.
+- Keep the phone and band close together.
+- Confirm Bluetooth is still enabled.
+- Reopen the app.
+- Restart the band if necessary.
+
+When to contact support:
+Customers should contact support if:
+- purchase status looks incorrect after basic checks
+- delivery problems require investigation
+- account recovery is needed
+- a refund request must be reviewed
+- the issue persists after the documented troubleshooting steps
+

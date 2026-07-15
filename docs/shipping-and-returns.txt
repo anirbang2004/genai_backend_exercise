@@ -1,0 +1,60 @@
+Northstar Shipping and Returns
+
+This document describes the general shipping process for physical Northstar products and clarifies how shipping-related topics connect to hardware returns.
+
+Northstar+ software subscriptions are digital services and are not shipped physically. Shipping timelines apply only to physical items such as the NS Band and related hardware orders.
+
+Order processing:
+Orders for physical products are typically processed within 2 business days.
+Processing time may be longer during holidays, large promotions, inventory events, or periods of unusually high order volume.
+
+Shipping speed:
+Standard shipping usually takes 5 to 7 business days after dispatch.
+Expedited shipping, where available, usually takes 2 to 3 business days after dispatch.
+
+These delivery windows are estimates rather than guarantees unless explicitly stated otherwise during checkout.
+
+Shipping destinations:
+Northstar currently ships hardware to the United States, Canada, the United Kingdom, Germany, France, and Australia.
+
+Shipping availability may change over time. If a country is not listed at checkout, shipping is not currently supported there.
+
+Tracking:
+Customers receive a tracking email once an order has shipped.
+Tracking updates depend on the carrier and may not appear immediately after label creation.
+
+If a package is delayed in transit, customers should first review the latest carrier update before contacting support.
+
+Delivered but missing packages:
+If a package is marked delivered but cannot be found, customers should wait 24 hours, check with household members or building staff, and then contact support.
+
+In some cases, carriers mark a package as delivered slightly before the final handoff is completed. This is why Northstar asks customers to wait briefly before opening an investigation.
+
+Incorrect address issues:
+Customers are responsible for reviewing the shipping address before placing an order.
+Northstar may not be able to reroute an order after it has entered carrier processing.
+
+If an address error is discovered quickly, the customer should contact support immediately, but address changes cannot be guaranteed.
+
+Returns:
+Returns for physical hardware must follow the hardware return window described in the refund policy.
+Returned devices should be shipped with the charging cable and original band if possible.
+
+Customers should not assume that a return shipment itself guarantees a refund. Returned hardware is typically reviewed for eligibility and condition.
+
+Exchanges:
+Northstar does not support exchanges for color or size preference after shipment.
+Customers who want a different version should return the original item if eligible and place a new order.
+
+Damaged deliveries:
+If a product arrives visibly damaged, customers should contact support promptly and include clear photos if requested.
+Damage during transit may affect shipping fee treatment under the refund policy.
+
+Relationship to refund policy:
+The shipping document explains logistics timing and delivery expectations.
+The refund policy controls refund eligibility, return windows, and reimbursement conditions.
+
+Digital services:
+Northstar+ software subscriptions are digital services and are not shipped physically.
+Questions about subscription cancellation or subscription refunds should be handled under billing and refund documentation rather than shipping rules.
+

@@ -1,0 +1,55 @@
+Northstar Account Management
+
+This document describes common account-related actions customers can take directly and identifies cases where support involvement is required.
+
+Customers can update their profile, password, and billing settings from the account area of the app or web portal.
+
+Profile management:
+Customers can review and update basic profile information using self-service account settings where available.
+
+Subscription cancellation:
+A customer can cancel an active Northstar+ subscription at any time before the next renewal date.
+Cancellation prevents future renewals but does not immediately revoke access already paid for in the current billing period.
+
+This means a customer who cancels usually retains premium access until the end of the current paid term, unless a separate billing issue changes account status.
+
+Email changes:
+If a customer no longer has access to their old email address, they should contact support for account recovery assistance.
+
+Support may ask for information needed to verify ownership before making sensitive account changes.
+
+Password reset:
+Customers can request a password reset from the sign-in screen.
+
+If the customer no longer has access to the email inbox associated with the account, normal password reset flow may not be sufficient and support may be needed.
+
+Deleting an account:
+Account deletion requests must be submitted through support.
+Deletion of an account does not automatically guarantee immediate deletion of all retained records if retention is legally required.
+
+Billing issues:
+Customers who believe they were charged in error should contact support and include the account email and transaction details.
+
+Providing complete billing details can help support determine whether the issue involves:
+- a normal renewal
+- a duplicate charge
+- a payment processing problem
+- a misunderstanding about cancellation timing
+
+Self-service vs support:
+The app or web portal is generally suitable for:
+- profile updates
+- password changes
+- cancellation
+- reviewing billing settings
+
+Support is generally required for:
+- account deletion
+- account recovery without email access
+- manual refund review
+- investigation of unusual billing issues
+
+Account ownership:
+Customers should keep account credentials secure and ensure that device pairing and subscription activity occur under the intended account.
+Some issues that look like payment or access problems are actually caused by signing into a different account than the one used for purchase.
+
