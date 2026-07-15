@@ -72,6 +72,17 @@ tests/                   # pytest suite (see conftest.py for fakes)
 docs/                    # sample document collection used for manual testing
 ```
 
+Optional dependencies: 
+
+`torch`, `sentence-transformers`, and `transformers` are optional packages used exclusively by
+`app.py` when using *real* embedding and/or LLM models. They are not required by the test
+suite to run successfully because they are imported conditionally and never executed when a
+dummy function/LLM is provided.
+
+Known limitations:
+
+See `NOTES.md`.
+
 
 
 
