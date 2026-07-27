@@ -7,6 +7,10 @@ tests) never has to know it's Chroma specifically - it could be swapped
 for another local vector store without touching callers.
 """
 
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 from dataclasses import dataclass
 from typing import List
 
